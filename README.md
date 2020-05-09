@@ -1,2 +1,2 @@
 # SystemBoyz
-edu
+Repositorio para realizar una blog de algo
